@@ -36,7 +36,7 @@ $ git clone https://github.com/rafaelone/GithubExplorer-GraphQL
 Acesse a pasta e faça as instalações:
 
 ```
-# Acesse a pasta do frontend
+# Acesse a pasta do projeto
 $ cd GithubExplorer-GraphQL/
 
 # Instale as dependencias
@@ -54,7 +54,7 @@ Utilizar subscriptions para fica atualizando em tempo real sempre que uma issue 
 <br />
 <br />
 
-👩🏻‍💻 **Rafael Sergio**
+🧑🏼‍💻 **Rafael Sergio**
 
 [![Github Badge](https://img.shields.io/badge/-Github-242A2D?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rafaelone)](https://github.com/rafaelone)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-sergio-982951103/)](https://www.linkedin.com/in/rafael-sergio-982951103/)
