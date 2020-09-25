@@ -1,44 +1,60 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<img src="./assets/dashboard.png" alt="Dashboard Github" title="Dashboard Github" />
 
-## Available Scripts
+<h1 align="center">
+  GitHub Explorer GraphQL
+</h1>
 
-In the project directory, you can run:
+<p>
+  Projeto voltado para o aprendizado de graphql utilizando React, Apollo Client.
+</p>
 
-### `yarn start`
+## 🚀 Tecnologias
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- [React](https://reactjs.org)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Node.js](https://nodejs.org/en/)
+- [GraphQL](https://graphql.org/)
+- [Apollo GraphQL](https://www.apollographql.com/)
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+<br />
 
-### `yarn test`
+<div>
+  <img src="./assets/repository.png" alt="Repositorio" title="Repositorio"/>
+</div>
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<br />
 
-### `yarn build`
+## Instalações e usos
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Clone ou faça o downlod desse repositório:
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+```
+# Clone o repositório
+$ git clone https://github.com/rafaelone/GithubExplorer-GraphQL
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Acesse a pasta e faça as instalações:
 
-### `yarn eject`
+```
+# Acesse a pasta do frontend
+$ cd GithubExplorer-GraphQL/
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+# Instale as dependencias
+$ yarn
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+# Rode
+$ yarn start
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+```
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+### Próximos passos
 
-## Learn More
+Utilizar subscriptions para fica atualizando em tempo real sempre que uma issue for aberta.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<br />
+<br />
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+👩🏻‍💻 **Rafael Sergio**
+
+[![Github Badge](https://img.shields.io/badge/-Github-242A2D?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rafaelone)](https://github.com/rafaelone)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-sergio-982951103/)](https://www.linkedin.com/in/rafael-sergio-982951103/)
